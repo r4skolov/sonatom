@@ -11065,6 +11065,7 @@ function init() {
     slidesPerView: 'auto',
     loop: true,
     effect: 'fade',
+    autoHeight: 'auto',
     fadeEffect: {
       crossFade: true
     },
